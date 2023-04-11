@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Real_Estate_Website/static/css/main.70d6675c.css",
+    "main.js": "/Real_Estate_Website/static/js/main.5a604070.js",
+    "static/media/pic-3.jpg": "/Real_Estate_Website/static/media/pic-3.dd7c9e9b13c5899dd99d.jpg",
+    "static/media/pic-1.jpg": "/Real_Estate_Website/static/media/pic-1.74fb1b56abc5522e0114.jpg",
+    "static/media/home-bg.jpg": "/Real_Estate_Website/static/media/home-bg.3ab47da4e31de3b07291.jpg",
+    "static/media/pic-4.png": "/Real_Estate_Website/static/media/pic-4.b9d9b2d2102a38f4a5cf.png",
+    "static/media/pic-2.png": "/Real_Estate_Website/static/media/pic-2.5d5e42bfc8bc3622b556.png",
+    "static/media/img-5.jpg": "/Real_Estate_Website/static/media/img-5.26d727db55ca36721f91.jpg",
+    "static/media/img-1.jpg": "/Real_Estate_Website/static/media/img-1.b51dfca8dab71f14454d.jpg",
+    "static/media/img-2.jpg": "/Real_Estate_Website/static/media/img-2.6ee5fd4a110530446263.jpg",
+    "static/media/img-4.jpg": "/Real_Estate_Website/static/media/img-4.334a18a4bb0a5bba6916.jpg",
+    "static/media/img-6.jpg": "/Real_Estate_Website/static/media/img-6.02f64f06451d2515cb91.jpg",
+    "static/media/img-3.jpg": "/Real_Estate_Website/static/media/img-3.68bf68ea390c847d6629.jpg",
+    "index.html": "/Real_Estate_Website/index.html",
+    "main.70d6675c.css.map": "/Real_Estate_Website/static/css/main.70d6675c.css.map",
+    "main.5a604070.js.map": "/Real_Estate_Website/static/js/main.5a604070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70d6675c.css",
+    "static/js/main.5a604070.js"
+  ]
+}
