@@ -10,7 +10,7 @@
     border-radius: .5rem;
     overflow:hidden;
     background:#fff;
-    flex:1 1 30rem;
+    flex:1 1 30.3rem;
 }
 
 .featured .box-container .box .image-container{
@@ -85,6 +85,7 @@
     color:var(--red);
     font-size: 2rem;
     margin-right: auto;
+    min-width: max-content;
 }
 
 .featured .box-container .box .content .price a{
