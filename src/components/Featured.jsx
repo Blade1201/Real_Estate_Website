@@ -35,7 +35,7 @@ const Featured = () => {
                             <a href="#" className="fas fa-phone"></a>
                         </div>
                         <div className="location">
-                            <h3>Modern lakások</h3>
+                            <h3>Szegedi lakás</h3>
                             <p>6700 Szeged, Szeges utca 15/4</p>
                         </div>
                         <div className="details">
@@ -70,7 +70,7 @@ const Featured = () => {
                             <a href="#" className="fas fa-phone"></a>
                         </div>
                         <div className="location">
-                            <h3>Modern lakások</h3>
+                            <h3>Nyíregyházi lakás</h3>
                             <p>4400 Nyíregyháza, Árok utca 14</p>
                         </div>
                         <div className="details">
@@ -105,7 +105,7 @@ const Featured = () => {
                             <a href="#" className="fas fa-phone"></a>
                         </div>
                         <div className="location">
-                            <h3>Modern lakások</h3>
+                            <h3>Budapesti lakás</h3>
                             <p>1011 Budapest, Petőfi Sándor utca 2.</p>
                         </div>
                         <div className="details">
@@ -140,7 +140,7 @@ const Featured = () => {
                             <a href="#" className="fas fa-phone"></a>
                         </div>
                         <div className="location">
-                            <h3>Modern lakások</h3>
+                            <h3>Debreceni lakás</h3>
                             <p>4000 Debrecen, Szarvas utca 15.</p>
                         </div>
                         <div className="details">
@@ -175,7 +175,7 @@ const Featured = () => {
                             <a href="#" className="fas fa-phone"></a>
                         </div>
                         <div className="location">
-                            <h3>Modern lakások</h3>
+                            <h3>Zamárdi lakás</h3>
                             <p>8621 Zamárdi, János Vitéz utca 1.</p>
                         </div>
                         <div className="details">
@@ -210,7 +210,7 @@ const Featured = () => {
                             <a href="#" className="fas fa-phone"></a>
                         </div>
                         <div className="location">
-                            <h3>Modern lakások</h3>
+                            <h3>Győri lakás</h3>
                             <p>9000 Győr, Arany utca 15/7</p>
                         </div>
                         <div className="details">
